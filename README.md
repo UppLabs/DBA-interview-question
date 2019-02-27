@@ -1,3 +1,3 @@
-# DBA-interview-question
+# DBA-interview-questions
 
 ![](https://uc4b482dade044ff4508ccb7c8db.previews.dropboxusercontent.com/p/thumb/AAWr_zrIIEu_RvbztnR4m3y2cE7c7HsTHw4WoXDUfAcHzqLsGXjIgZ4vphRAKGMhpy1iI3R_YkXalWKj2Txv1wpLX5fDsuFgy7mF1muvz6CG5X5gxSjpKODGrzDUQaOgIZ2zO7M6MceH1o96a-6O1WVVG3sYwP1KjkpIEzaFukb3nZxJkMVieCCgYaax75j3raiC2q6Y_BhfvuSsF6QctusBHYNW6VW9S1DdFDCwNK7EnapLoJ6saxA25zSJhoDHpOrtwMpV9A72zF7hxe5cRg_f/p.png?size_mode=5)
